@@ -18,7 +18,7 @@ I have a framework for you to speed up your identification process for the use c
 3. Deep dive into the filtered use cases and try to fill out a criteria table as follows.
 4. Prioritize the use cases based on the evaluation crietia.
 
-![use_case_assess](/assets/use_case_assess1.JPG)
+![use_case_assess](/assets/use_case_assess.JPG1)
 
 ### Use Case Evalucation criteria 
 
