@@ -11,14 +11,16 @@ I have a framework for you to speed up your identification process for the use c
 > Most of time, your clients don't really know what they want, you need to help them figure this out!
 
 
-## 1. General stesps for AI & Analytics use case identification
+## Use Case Evaluation Framework
 
 1. Interview your clients and understand their needs, particularly the needs of end-user and stakeholders.
 2. Explore relevant use cases from your inventory based on the interview.
-3. Deep dive into the filtered use cases and try to fill out a criteria table.
+3. Deep dive into the filtered use cases and try to fill out a criteria table as follows.
 4. Prioritize the use cases based on the evaluation crietia.
 
-### Use case evalucation criteria 
+![use_case_assess](/assets/use_case_assess1.JPG)
+
+### Use Case Evalucation criteria 
 
 | **Ease of execution**         | **Overall business value**       | 
 |-------------------------------|----------------------------------|
@@ -40,10 +42,7 @@ considered to enable more value.
 > 
 > **Ease of implementation:** The ease of integration into existing business, change management, model deployment on the production env.
 
-## 2. An Example of AI & Analytics use case prioritization for telecoms clients ##
 
-There are many potential use cases for telecoms. I have listed some use cases I have engaged and prioritized them based on the assessment criteria!
 
-![use_case_assess](/assets/use_case_assess.JPG)
 
 
