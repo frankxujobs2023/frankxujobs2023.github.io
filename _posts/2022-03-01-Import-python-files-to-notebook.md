@@ -1,5 +1,5 @@
 ## How to import python files into a jupyter notebook?
-**Ans**: There are mutiple ways to address this issue. The best solution is install the python file as a package.
+>**Ans**: There are mutiple ways to address this issue. The best solution is install the python file as a package.
 
 
 Suppose the python file names functions.py, you can access functions.py file from any iPython notebook located in any place, but at the given environment (kernel).
