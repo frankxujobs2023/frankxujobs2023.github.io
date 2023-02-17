@@ -1,4 +1,4 @@
-## How to import python files into a jupyter notebook?
+How to import python files into a jupyter notebook?
 >**Ans**: There are mutiple ways to address this issue. The best solution is install the python file as a package.
 
 
