@@ -1,6 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Frank's Blog"
+author: "Frank"
+description: "This blog contains Frank's research results during his PhD and project experience since his work.
+
+ "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:frankxujobs2023@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/frankxujobs2023"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
