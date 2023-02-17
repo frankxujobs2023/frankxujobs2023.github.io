@@ -52,7 +52,7 @@ To generate a **prioritization score** for each retail store, you need following
 
 ![prospects](/assets/prospects3.JPG1)
 
-### 3.2 The MAPE score for classifiation model in an example is **5%**.
+### 3.2 The MAPE score for Regression model in an example is **5%**.
 > You can use various metrics to measure the regression accuracy like R-square, MAPE, RMSE, etc.
 
 ## 4. Ultimate Conlusion
