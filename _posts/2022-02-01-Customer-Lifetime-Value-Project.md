@@ -31,9 +31,9 @@ Third, CLV helps businesses understand the true cost of acquiring and retaining 
 By understanding the lifetime value of a customer, businesses can make informed decisions about 
 how much to spend on customer acquisition and retention efforts.
 
-## How to Calculate Customer Lifetime Value?
+## How to Calculate Customer Lifetime Value for Established Customers?
 
-There are several methods for calculating CLV, but the most common method is to use the following formula:
+There are several methods for calculating CLV for old customers who have sufficient historical purchase data, but the most common method is to use the following formula:
 
 > CLV = (Average Value of a Sale) x (Number of Repeat Transactions) x (Average Customer Lifespan)
 
@@ -55,8 +55,8 @@ This means that the customer is expected to generate a total of $2,000 in revenu
 Of course, this is just a simplified example, and in reality, calculating CLV is a more complex process that takes into 
 account factors such as customer acquisition costs, retention costs, and customer churn rates.
 
-## How to predict CLV for newly acquired customers or predict future CLV for established customers?
-There are several ways or methods to predict customer lifetime value. Here are some of the most common methods:
+## How to Predict Customer Lifetime Value for Prospective Customers?
+There are several ways or methods to predict new customer lifetime value who have no purchase data at all. Here are some of the most common methods:
 ### 1. Aggregate Model
 The Aggregate Model is probably the most common method out there. 
 It has been around the longest, and it is the most straightforward way to calculate CLV. 
@@ -84,3 +84,17 @@ As part of the machine learning process, we will also estimate the Recency, Freq
 This helps give you a clear overview of each user’s average purchase amount, lifetime duration, and their frequency of purchase.
 For this type of model to work, you need to have previous data and prepare it so the algorithm can do its job. 
 This process involves removing duplicates and getting rid of empty fields or data that are incorrectly formatted. 
+
+## An interesting CLV project
+An online retailer that sells a variety of products, including clothing, electronics, and home goods. The company had been experiencing stagnant revenue growth and was looking for ways to increase sales. They decided to focus on improving customer retention by using customer lifetime value to identify their most valuable customers and target them with personalized marketing campaigns.
+
+**The first step** in the project was to calculate the customer lifetime value for each customer. This was done by analyzing the customer's purchase history, including the frequency, recency, and monetary value of their purchases. Using this information, the team was able to estimate the expected future value of each customer.
+
+**Next**, the team used the RFM data to segment their customers into different groups based on their value. They identified a group of high-value customers who had a high lifetime value and were most likely to make repeat purchases. They then created targeted marketing campaigns to reach these customers, including personalized emails and promotions that were tailored to their preferences and purchase history.
+
+**Also**, there are many new custmomers with limited historical data, but has demographic data or some personal info data, we developed a regression model to predict 
+the customer lifetime value for those new customers and prioritize them by the predicted number, which will help us identify the most valuable prospective customers.
+
+**The result of the project** was a significant increase in revenue. By focusing on high-value customers and targeting them with personalized marketing campaigns, the company was able to increase their repeat purchase rate and drive more revenue. In addition, by improving customer retention, the company was able to reduce the cost of customer acquisition and improve their overall profitability.
+
+**In conclusion**, using customer lifetime value to identify high-value customers and target them with personalized marketing campaigns can be an effective way to lift revenue and improve customer retention. By understanding the lifetime value of each customer, companies can focus their marketing efforts on the customers who are most likely to make repeat purchases and have the greatest potential to drive revenue growth.
