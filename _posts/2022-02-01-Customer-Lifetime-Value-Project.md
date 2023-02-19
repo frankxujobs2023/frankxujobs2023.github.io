@@ -1,5 +1,5 @@
 ---
-title:  "What is customer lifetime value (CLV)"
+title:  "What Is Customer Lifetime Value (CLV)"
 mathjax: true
 layout: post
 categories: media
