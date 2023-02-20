@@ -17,6 +17,7 @@ sales and daily inventory, etc.
 > uncertain demand. This problem arises in many different contexts and industries, and finding an optimal solution 
 > to the newsvendor problem can result in significant cost savings and revenue increases.
 
+
 ## 1. What is Newsvendor Problem?
 In general, the newsvendor problem can be formulated as follows: a vendor has a fixed order cost to purchase a certain 
 quantity of a product from a supplier, and a known selling price for the product. 
