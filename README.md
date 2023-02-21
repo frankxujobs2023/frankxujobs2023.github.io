@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-Frank is a highly skilled data scientist with four years of solid research experience in anomaly detection and topic modeling, which he gained during his PhD. He has demonstrated his expertise in leading the development of a data-driven model for a global bank's suspicious transaction monitoring system using his exceptional knowledge of anomaly detection and topic modeling.
+Frank is a highly skilled data scientist with four years of solid research experience in anomaly detection and topic modeling, which he gained during his PhD program. He has demonstrated his expertise in leading the development of a data-driven model for a global bank's suspicious transaction monitoring system using his exceptional knowledge of anomaly detection and topic modeling.
 
 As a data science manager in a consulting firm for the past three years, Frank specializes in leveraging machine learning and simulation approaches to help clients solve critical issues across various industries. He has extensive experience in customer analysis, marketing strategies, and operation optimization, making him a great asset in managing large projects.
 
