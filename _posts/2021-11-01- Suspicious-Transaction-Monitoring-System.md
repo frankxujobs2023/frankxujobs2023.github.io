@@ -1,5 +1,5 @@
 ---
-title: "An Innovative Anomaly Detection Model For STMS"
+title: "Suspicious Transaction Monitoring System"
 mathjax: true
 layout: post
 categories: media
