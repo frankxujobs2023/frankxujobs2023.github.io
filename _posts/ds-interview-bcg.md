@@ -26,6 +26,16 @@ The class distribution is balanced: When the positive and negative classes are r
 
 The goal is to maximize the accuracy: In some scenarios, the primary goal is to make sure that the positive predictions are highly accurate, even at the cost of missing some positive instances. This is often the case in text classification, where precision measures the fraction of relevant documents among all retrieved documents.
 
+## 9. Dimension Reduction
+Principal Component Analysis (PCA): PCA is a popular unsupervised linear dimensionality reduction technique that transforms the data into a new coordinate system, where the first few principal components explain the maximum amount of variance in the data. PCA is particularly useful when the data has a linear structure and the goal is to identify the most important features.
+
+t-Distributed Stochastic Neighbor Embedding (t-SNE): t-SNE is a non-linear dimensionality reduction technique that maps the high-dimensional data onto a low-dimensional space while preserving the pairwise distances between the points as much as possible. t-SNE is particularly useful when the data has a complex, non-linear structure and the goal is to visualize the data in a two-dimensional or three-dimensional space.
+
+Linear Discriminant Analysis (LDA): LDA is a supervised linear dimensionality reduction technique that projects the data onto a new space that maximizes the separation between the classes. LDA is particularly useful for classification tasks when the goal is to identify the most discriminative features.
+
+Autoencoders: Autoencoders are a type of neural network that can be used for unsupervised dimensionality reduction. The autoencoder learns to encode the high-dimensional data into a lower-dimensional space and then decode it back into the original space, minimizing the reconstruction error. Autoencoders are particularly useful when the data has a complex, non-linear structure and the goal is to identify the most important features.
+
+Random Projections: Random projections are a simple and efficient technique for reducing the dimensionality of high-dimensional data. The idea is to randomly project the data onto a lower-dimensional space while preserving the pairwise distances between the points as much as possible. Random projections are particularly useful when the data has a large number of features and the goal is to reduce the computational complexity of the subsequent analysis.
 
 ## Links
 [data_challenge](https://www.youtube.com/watch?v=Q6fEKz6W-SA)
