@@ -1,4 +1,4 @@
-## BCG Intreview Q
+# BCG Intreview Q
 1. How to build up a recomendation system
 2. How to boost sales of a local store
 3. How would you build a model to predict the profitability of different stores nationwide
@@ -6,7 +6,25 @@
 5. Maximize revenue for fashion retailer client
 6. Traditional market sizing questions for the business case
 7. What method would you use for feature engineering
-8. When does recall matter more, when does precision matter more
+## 8. When does recall matter more, when does precision matter more
+
+Recall and precision are both important performance metrics in binary classification problems, but their relative importance depends on the specific problem and the business objectives. Here are a few general guidelines:
+
+Recall matters more when:
+
+False negatives are more costly than false positives: In some applications, missing a positive instance can have more severe consequences than incorrectly identifying a negative instance. For example, in medical diagnosis, failing to detect a disease can be life-threatening, while a false alarm is less critical.
+
+The class distribution is imbalanced: When the positive class is rare compared to the negative class, recall can be more important because it measures the ability of the classifier to identify the positive instances correctly.
+
+The goal is to maximize the coverage: In some scenarios, the primary goal is to capture as many positive instances as possible, even at the cost of including some negative instances. This is often the case in information retrieval, where recall measures the fraction of relevant documents retrieved.
+
+Precision matters more when:
+
+False positives are more costly than false negatives: In some applications, incorrectly flagging a negative instance can be more damaging than missing a positive instance. For example, in fraud detection, incorrectly accusing a customer of fraud can harm their reputation and result in legal consequences.
+
+The class distribution is balanced: When the positive and negative classes are roughly balanced, precision can be more important because it measures the fraction of true positives among all positive predictions.
+
+The goal is to maximize the accuracy: In some scenarios, the primary goal is to make sure that the positive predictions are highly accurate, even at the cost of missing some positive instances. This is often the case in text classification, where precision measures the fraction of relevant documents among all retrieved documents.
 
 
 ## Links
