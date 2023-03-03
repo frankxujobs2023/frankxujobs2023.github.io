@@ -6,7 +6,6 @@ categories: media
 ---
 
 Introducing the latest addition to the world of presentation tools – PPT Automation! 
-
 Recently, I spent two months developing this cutting-edge tool that is designed to save you time and effort by automating the slide creation process. 
 This cutting-edge tool leverages the power of ChatGPT, an advanced language model, to create PPT slides automatically.
 > With PPT Automation, you no longer need to spend hours creating slides from scratch or searching for suitable templates. 
