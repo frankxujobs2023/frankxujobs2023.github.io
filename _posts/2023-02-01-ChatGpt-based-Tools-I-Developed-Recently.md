@@ -23,11 +23,9 @@ Give it a try today and experience the future of PPT automation!
 Now let me show the very rough version V0.1 prototype to you. 
 ### Voice Input for ChatGpt
 In the first video, you will see how our tool is able to capture your voice as the input to ChatGpt.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6u2cRKU7AGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### PPT Automation with Text and Voice Input
 In the second video, you will see how our tool is able to capture your voice and text as input to generate PPT slides automatically.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQdk81EawQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
