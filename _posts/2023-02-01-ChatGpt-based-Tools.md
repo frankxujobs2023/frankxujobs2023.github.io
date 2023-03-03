@@ -20,6 +20,14 @@ PPT Automation is the perfect solution. With its powerful capabilities and intui
 PPT Automation is the ultimate presentation tool for anyone looking to create engaging and impactful slides in no time. 
 Give it a try today and experience the future of PPT automation!
 
-<video width="640" height="480" controls>
-<source src="https://github.com/frankxujobs2023/frankxujobs2023.github.io/blob/master/assets/2023-02-28-11-44-33.mp4" type="video/mp4">
-</video>
+Now let me show the very rough version V0.1 prototype to you. 
+### Voice Input for ChatGpt
+In the first video, you will see how our tool is able to capture your voice as the input to ChatGpt.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6u2cRKU7AGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### PPT Automation with Text and Voice Input
+In the second video, you will see how our tool is able to capture your voice and text as input to generate PPT slides automatically.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQdk81EawQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
